@@ -7,9 +7,9 @@
 
 ## 🔥 Featured Open-Source Contributions
 - 🏆 Contributed to **DeepFaceLab** (Deepfake Detection) → [GitHub](https://github.com/iperov/DeepFaceLab)  
-- 🎵 Built **AI-Based Music Composer using Genetic Algorithms** → [GitHub](https://github.com/rohithjem)  
+- 🎵 Built **AI-Based Music Composer using Genetic Algorithms** → [GitHub](https://github.com/Rohithjem/AI-Music-Composer)  
 - 📈 Developed **Real-Time Stock Data Visualization (AWS + Python)** → [GitHub](https://github.com/rohithjem/stock-visualizer)  
-- 🤖 **VTFNet: Hybrid Vision Transformer + Thermal Imaging** for **Camouflage Detection** → [GitHub](https://github.com/rohithjem/VTFNet)  
+- 🤖 **VTFNet: Hybrid Vision Transformer + Thermal Imaging** for **Camouflage Detection** → [GitHub](https://github.com/Rohithjem/Hybrid-VTFNet-Camouflage-Detection)  
 - 🌍 **Hacktoberfest 2024** Participant → Contributed **5+ pull requests** to AI & Cloud projects  
 
 ---
